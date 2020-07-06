@@ -28,4 +28,4 @@ try:
                             algorithm_description="Random Forest with simple pre- and post-processing",
                             algorithm_code=inspect.getsource(RandomForest))
 except Exception as e:
-    print("Exception while loading algorithm to registry,",str(e))
+    print("Exception while loading algorithm to registry,", str(e))
