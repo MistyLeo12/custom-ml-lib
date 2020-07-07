@@ -13,4 +13,4 @@ In the Extra Trees algorithm, each tree is trained using the whole learning samp
 
 
 
-[^Random Forest]: https://en.wikipedia.org/wiki/Random_forest#ExtraTrees
+[^Random Forest]: https://en.wikipedia.org/wiki/Random_forest
