@@ -2,7 +2,7 @@
 Currently the library is based 
 
 # Current Algorithms
-* [Random Forest]
+* [^Random Forest]
 
 * Extra Trees Algorithms
 
