@@ -2,7 +2,7 @@
 Currently the library is based 
 
 # Current Algorithms
-* Random Forest[^2]
+* [Random Forest]
 
 * Extra Trees Algorithms
 
@@ -13,4 +13,4 @@ In the Extra Trees algorithm, each tree is trained using the whole learning samp
 
 
 
-[^2]: https://en.wikipedia.org/wiki/Random_forest#ExtraTrees
+[^Random Forest]: https://en.wikipedia.org/wiki/Random_forest#ExtraTrees
